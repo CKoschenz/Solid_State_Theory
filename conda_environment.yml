@@ -1,4 +1,4 @@
-name: solid_state_env
+name: python_tools_env
 channels:
   - fastai
   - conda-forge
@@ -146,6 +146,7 @@ dependencies:
   - stack_data
   - tbb
   - threadpoolctl
+  - tikzmagic
   - tk
   - toml
   - tornado
